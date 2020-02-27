@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="s.append(" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="true" key="wholeword"/>
+		<list key="findhistory">
+			<item value="s+="/>
+			<item value="answerNF"/>
+			<item value="getPR()"/>
+			<item value="getPB()"/>
+			<item value="addPodiumR"/>
+			<item value="addPodiumB"/>
+			<item value="L"/>
+			<item value="O"/>
+			<item value="E"/>
+			<item value="&quot;LION&quot;"/>
+			<item value="&quot;OURS&quot;"/>
+			<item value="&quot;ELEPHANT&quot;"/>
+			<item value="ELEPHANT"/>
+			<item value="this.Cartes"/>
+			<item value="SituationTesté"/>
+		</list>
+		<list key="replacehistory">
+			<item value="s.append("/>
+			<item value="podiumRouge"/>
+			<item value="podiumBleu"/>
+			<item value="podiumRouge.add"/>
+			<item value="podiumBleu.add"/>
+			<item value="ANIMAUX.LION"/>
+			<item value="ANIMAUX.OURS"/>
+			<item value="ANIMAUX.ELEPHANT"/>
+			<item value="L"/>
+			<item value="O"/>
+			<item value="E"/>
+			<item value="cartes"/>
+			<item value="Carte"/>
+			<item value="carteTest"/>
+			<item value="order"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="336" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="454" key="DIALOG_HEIGHT"/>
+		<item value="1208" key="DIALOG_X_ORIGIN"/>
+		<item value="269" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

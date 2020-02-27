@@ -1,0 +1,10 @@
+
+`squid:S1481"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8¶£¾Œ‘-H£RMINORZ
+CODE_SMELL
+Wsquid:S2116'"%Use "Arrays.toString(array)" instead.(È©Ø¯üÿÿÿÿ8Í•°Œ‘-HRMAJORZBUG
+csquid:S00108")Either remove or fill this block of code.(ÿ°å€øÿÿÿÿ8¶£¾Œ‘-H¢RMAJORZ
+CODE_SMELL
+osquid:S1854"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8¶£¾Œ‘-H¡RMAJORZ
+CODE_SMELL
+…squid:S00116"RRename this field "Players" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¢çãúÿÿÿÿHñRMINORZ
+CODE_SMELL
